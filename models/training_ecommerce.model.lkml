@@ -7,12 +7,13 @@ include: "/**/*.dashboard"
 
 
 
+
+
+
 datagroup: training_ecommerce_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
   max_cache_age: "1 hour"
 }
-
-domfsd fsf sdf
 
 
 
